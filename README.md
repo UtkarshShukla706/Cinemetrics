@@ -4,6 +4,11 @@
 > hidden within the IMDB Top 1000 rated films of all time.
 
 ---
+## 🔗 Live App
+
+https://cinemetrics-fjt3e6s5u6bpfapd6kpsol.streamlit.app/
+
+---
 
 ## 📌 Project Overview
 
