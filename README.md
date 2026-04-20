@@ -64,6 +64,9 @@ across 100 years of cinema history.
 ### IMDB Rating vs Metascore
 ![IMDB vs Metascore](images/imdb_metascore.png)
 
+### Decade vs Average Gross
+![Decade vs Gross](images/decade_average01.png)
+
 ---
 
 ## 🔍 Key Findings
